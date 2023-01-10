@@ -8,4 +8,6 @@ footer {
   /* margin: 10px; */
   align-items: center;
   border: 1px solid blueviolet;
+  /* z-index: 1; */
+  background-color: white;
 }

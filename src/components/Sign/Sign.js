@@ -1,3 +1,4 @@
+import './Sign.css';
 export default function Sign({ name, dates }) {
   return (
     <div className="ZodiacCard">
