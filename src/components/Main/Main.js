@@ -8,7 +8,7 @@ export default function Main() {
   return (
     <main style={{ backgroundImage: `url(${background})` }}>
       {signs.map((sign) => (
-        <Sign key={sign.name} />
+        <Sign key={sign.name} {...sign} />
       ))}
     </main>
   );

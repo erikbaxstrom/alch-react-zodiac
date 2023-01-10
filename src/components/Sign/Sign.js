@@ -1,8 +1,9 @@
-export default function Sign(props) {
+export default function Sign({ name, dates }) {
   return (
     <div className="ZodiacCard">
-      {console.log('🚀 ~ file: Sign.js:2 ~ Sign ~ props', props)}
-      <p>Name: {props.name}</p>
+      <img src={`${process.env.PUBLIC_URL}/signs/${name}.png`}></img>
+      <h2>{name}</h2>
+      <span>{dates}</span>
     </div>
   );
 }
