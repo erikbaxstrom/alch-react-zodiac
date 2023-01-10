@@ -1,5 +1,7 @@
 main {
   background-color: blue;
   height: 600px;
+  display: flex;
+  border: 1px solid red;
   /* background-size: cover; */
 }
