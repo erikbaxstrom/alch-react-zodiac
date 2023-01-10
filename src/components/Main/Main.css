@@ -1,10 +1,10 @@
 main {
-  background-color: blue;
+  /* background-color: blue; */
   height: 95vh;
   display: flex;
   flex-wrap: wrap;
 
-  border: 1px solid red;
+  /* border: 1px solid red; */
   /* background-size: cover; */
   /* background: cover; */
 }
