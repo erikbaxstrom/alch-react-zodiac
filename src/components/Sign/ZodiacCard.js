@@ -1,5 +1,5 @@
-import './Sign.css';
-export default function Sign({ name, dates }) {
+import './ZodiacCard.css';
+export default function ZodiacCard({ name, dates }) {
   return (
     <div className="ZodiacCard">
       <img src={`${process.env.PUBLIC_URL}/signs/${name}.png`}></img>
