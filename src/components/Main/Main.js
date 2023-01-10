@@ -1,5 +1,5 @@
 import React from 'react';
 import './Main.css';
-export default function Footer() {
+export default function Main() {
   return <main>Main goes here</main>;
 }
