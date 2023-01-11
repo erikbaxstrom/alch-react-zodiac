@@ -1,14 +1,6 @@
 footer {
-  /* position: fixed; */
-  /* width: 100%; */
-  /* bottom: 0; */
-  /* height: 2rem; */
   display: flex;
   justify-content: flex-end;
-  /* margin: 10px; */
   padding: 10px;
   align-items: center;
-  /* border: 1px solid blueviolet; */
-  /* z-index: 1; */
-  /* background-color: white; */
 }
