@@ -1,8 +1,11 @@
 main {
-  /* background-color: blue; */
-  height: 95vh;
+  /* height: 95vh; */
+  height: 100%;
   display: flex;
   flex-wrap: wrap;
+  align-items: stretch;
+  justify-content: flex-start;
+  /* padding: 25px; */
 
   /* border: 1px solid red; */
   /* background-size: cover; */

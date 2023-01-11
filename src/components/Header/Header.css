@@ -1,11 +1,8 @@
 header {
-  /* position: fixed; */
-  width: 100%;
-  top: 0;
-  height: 2rem;
   display: flex;
   justify-content: center;
-  /* margin: 10px; */
   align-items: center;
-  /* border: 1px solid aqua; */
+  border: 2px solid black;
+  margin: 10px;
+  border-radius: 20px;
 }
